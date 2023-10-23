@@ -1,5 +1,6 @@
 import React, { Component } from "react";
-import Router from "./router/containers/router_cont";
+import Router from "../src/router/components/router";
+
 
 
 class App extends Component {
