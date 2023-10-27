@@ -46,8 +46,7 @@ class Routers extends Component {
               <Route exact path="/" element={<Login />} />
               <Route exact path="/loginotp" element={<Loginotp />} />
               <Route  exact path ="/Employee" element ={<><Employee/></>}/>
-               {/* <Route exact path="/checkstatus" element={<OrderStatus />} />
-              <Route exact path="/checkstatusdownload" element={< OrderStatusdown />} />  */}
+            
               <Route exact path="*" element={<Error />} />
             </Routes>
 
