@@ -90,6 +90,12 @@ export default class home extends Component {
           topnews: "Top news",
           viewer: "1930",
         },
+        {
+          newsheadline: "India halts fresh visas for Canadian",
+          topnews: "Top news",
+          viewer: "1930",
+        },
+        
       ],
       articlePostData: [
         {
